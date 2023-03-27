@@ -1,0 +1,27 @@
+
+
+about Expressions, Statements, Code Blocks, and Methods.
+These are four really key components of Java. 
+
+What is whitespace?
+Whitespace is any extra spacing, horizontally or vertically, placed around Java source code.
+It's usually added for human readability purposes.
+In Java, all these extra spaces are ignored.
+
+
+These are:
+
+The Expression – An expression computes to a single value.
+
+The Statement – Statements are stand alone units of work.
+
+And Code Blocks – A code block is a set of zero, one, or more statements, usually grouped together in some way to achieve a single goal.
+
+Methods-A method declares executable code that can be invoked, passing a fixed number of values as arguments.
+A method is a way of reducing code duplication.
+A method can be executed many times with potentially different results, by passing data to the method in the form of arguments.
+
+What are Parameters and arguments //
+Parameters and arguments are terms that are often used interchangeably by developers.
+But technically, a parameter is the definition as shown in the method declaration, and the argument will be the value that's passed to the method when we call it.
+
